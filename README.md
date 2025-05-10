@@ -49,9 +49,9 @@ npm install
 ```env
 DB_NAME=singularity
 DB_USER=postgres
-DB_PASSWORD=Afb95020728907$
+DB_PASSWORD=123456789
 DB_HOST=localhost
-DB_PORT=5433
+DB_PORT=5432
 ```
 
 ---
